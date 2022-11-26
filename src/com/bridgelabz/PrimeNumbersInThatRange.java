@@ -5,7 +5,7 @@ public class PrimeNumbersInThatRange {
         public void checkPrimeNumbers() {
             int minBound = 0;
             int maxBound = 1000;
-            for(int i = minBound + 2; i<maxBound; i++)
+            for(int i = minBound + 2; i < maxBound; i++)
             {
 
                 int flag = 1;
